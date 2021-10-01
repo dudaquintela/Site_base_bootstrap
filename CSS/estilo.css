@@ -1,9 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300&display=swap');
 body{
-    background-color: rgb(248, 245, 246);
+    background-color: rgb(68, 137, 177);
 }
 .col{
-    background-color: rgb(248, 245, 246);
+    background-color: rgb(93, 147, 179);
 }
 .container{
     margin-top:20px;
@@ -12,5 +13,13 @@ body{
 a{
     font-family: 'Bebas Neue', cursive;
     color: rgb(12, 2, 5);
+    font-size: 1.8em;
+}
+h2{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 1.5em;
+}
+p{
+    font-family: 'Roboto Slab', serif;
     font-size: 1.2em;
 }
