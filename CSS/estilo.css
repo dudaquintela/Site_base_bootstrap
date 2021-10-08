@@ -5,6 +5,8 @@ body{
 }
 .col{
     background-color: rgb(93, 147, 179);
+    display: flex;
+    justify-content: center;
 }
 .container{
     margin-top:20px;
@@ -22,4 +24,8 @@ h2{
 p{
     font-family: 'Roboto Slab', serif;
     font-size: 1.2em;
+}
+.img-fluid
+{
+    padding-top: 20px;
 }
